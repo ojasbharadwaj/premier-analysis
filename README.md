@@ -9,4 +9,4 @@ This season wasn’t only significant in terms of football; it was also one of t
 Background Research:
 The significance of transfer spending as a crucial determinant of team performance in the English Premier League (EPL). With the absence of a spending limit, clubs in the EPL have the freedom to allocate substantial transfer budgets, allowing them to acquire or retain players. The empirical analysis spanning multiple EPL seasons aims to uncover the intricate relationship between transfer spending and on-field success. Previous studies, such as Hall et al. (2002), have established a robust correlation between a club's payroll or transfer spending and its final standing in the league. This correlation suggests that the financial resources invested in transfers play a pivotal role in shaping a team's competitiveness and position in the league standings. The research also seeks to explore the speed at which increased transfer spending influences a club's performance, highlighting the dynamic nature of this relationship over time. 
 
-![](#scoreboard)
+[](#scoreboard)
