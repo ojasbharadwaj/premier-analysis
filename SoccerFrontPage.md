@@ -1,6 +1,6 @@
 # Figures of Statistical Analyses Performed
 
-Analyzing 
+As the 2018-19 season was nothing less than a thriller some of the statistics that have taken place in the specific season were staggering. These stats include record shots, scandal red cards, record attendance and referee assignments. The histograms below are materialized versions of some of the statistics seasonwide.
 
 :::{important}
 ![newplot](newplot.png)
