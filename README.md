@@ -38,6 +38,6 @@ The significance of transfer spending as a crucial determinant of team performan
 ![formula](formula.png)
 :::
 
-This equation can be used to estimate the percentage of games a certain team will win based on total goals and goals scored in the games previously played.
+This equation can be used to estimate the percentage of games a certain team will win based on total goals and goals scored in the games previously played [Reinmuth & Sommers, 2018](https://doi.org/10.47611/jsr.v7i2.460). Originally, the game began to describe baseball, but researchers have found that the formula also predicts a significant amount of soccer games as well.
 
 
